@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f422d67a-500e-4126-91db-72b12520e186" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/test2.13/COCO_val2014_000000000241.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/COCO_val2014_000000000474.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/COCO_val2014_000000000761.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/COCO_val2014_000000034372.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/CenterNet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/coco/.ipynb_checkpoints/Inspect_CenterNetV2_COCO-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/coco/.ipynb_checkpoints/inspect_data-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/coco/.ipynb_checkpoints/inspect_model-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/coco/.ipynb_checkpoints/inspect_weights-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/coco/Inspect_CenterNetV2_COCO.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/coco/Taco.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/coco/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/coco/coco.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/coco/inspect_data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/coco/inspect_model.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/coco/inspect_weights.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/coco/model.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/convert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/mobilenet_v3_block.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/mobilenet_v3_small.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/epoch.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test2.13/pc/epoch.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581645002.longfei.9320.19187.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581645122.longfei.9435.17647.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581645210.longfei.9535.14567.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581645670.longfei.9774.14797.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581645860.longfei.9960.12711.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581646324.zlf-System-Product-Name.24816.14797.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581646509.zlf-System-Product-Name.25523.12711.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581659760.zlf-System-Product-Name.29432.13580.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581659942.zlf-System-Product-Name.29574.13580.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581660327.zlf-System-Product-Name.29965.13580.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581660705.zlf-System-Product-Name.30133.13580.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581660831.zlf-System-Product-Name.30267.13580.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581661130.zlf-System-Product-Name.30428.13580.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581661310.zlf-System-Product-Name.30617.13596.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581661506.zlf-System-Product-Name.30801.13148.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581661731.zlf-System-Product-Name.30958.13148.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581661973.zlf-System-Product-Name.31107.13148.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581662290.zlf-System-Product-Name.31438.13150.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581662562.zlf-System-Product-Name.2410.13598.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581662701.zlf-System-Product-Name.2890.13598.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581662743.zlf-System-Product-Name.3200.13598.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581662830.zlf-System-Product-Name.3332.13598.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581662957.zlf-System-Product-Name.3484.12638.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581663033.zlf-System-Product-Name.3617.11997.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581663636.zlf-System-Product-Name.4116.12655.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581663640.zlf-System-Product-Name.profile-empty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581663689.zlf-System-Product-Name.4255.15535.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581663731.zlf-System-Product-Name.4381.14095.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581663768.zlf-System-Product-Name.4505.13615.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581663904.zlf-System-Product-Name.4647.13615.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581663975.zlf-System-Product-Name.4777.13615.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581664020.zlf-System-Product-Name.4911.13615.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581664211.zlf-System-Product-Name.5069.13615.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/events.out.tfevents.1581664423.zlf-System-Product-Name.5218.13615.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/plugins/profile/2020-02-14_02-00-40/local.trace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/plugins/profile/2020-02-14_02-02-53/local.trace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/plugins/profile/2020-02-14_02-05-09/local.trace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/plugins/profile/2020-02-14_02-06-19/local.trace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/plugins/profile/2020-02-14_02-07-05/local.trace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/plugins/profile/2020-02-14_02-10-16/local.trace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pc/log/train/plugins/profile/2020-02-14_02-13-48/local.trace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pycocotools/.ipynb_checkpoints/pycocoDemo-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pycocotools/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pycocotools/_mask.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pycocotools/_mask.cpython-37m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pycocotools/_mask.pyx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pycocotools/coco.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pycocotools/cocoeval.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pycocotools/mask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pycocotools/pycocoDemo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/pycocotools/pycocoEvalDemo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/test1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/utils/image_augmentor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/utils/imagenet_classname_encoder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/utils/test_imagenet_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/utils/test_voc_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/utils/tfrecord_imagenet_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/utils/tfrecord_voc_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/utils/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/utils/visualize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/utils/voc_classname_encoder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.13/yolov3_layer_utils.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test2.13" />
+  </component>
+  <component name="ProjectId" id="1YK2ptCaadelP4CiSYjXHDb5ayl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f422d67a-500e-4126-91db-72b12520e186" name="Default Changelist" comment="" />
+      <created>1582677150774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582677150774</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
